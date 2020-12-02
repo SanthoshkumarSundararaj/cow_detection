@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>OIP-zPHb-0gepaRU9qtIllWoMgHaFl.jpeg</filename>
+	<path>/home/santhosh/fraunhofer_IAIS/tensorflow_object_detection/images/test/OIP-zPHb-0gepaRU9qtIllWoMgHaFl.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>226</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>11</ymin>
+			<xmax>294</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_1</folder>
+	<filename>00000074.jpg</filename>
+	<path>/home/santhosh/fraunhofer_IAIS/tlt-experiments/data/training/image_1/00000074.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>66</ymin>
+			<xmax>400</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+</annotation>
